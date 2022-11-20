@@ -1436,6 +1436,7 @@ body {
         align-items: flex-start;
         align-content: center;
         justify-content: space-between;
+        flex-direction: row;
     }
 
     .body-page .content-page .content-form .text-form,
